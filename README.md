@@ -73,26 +73,7 @@ User → Frontend UI → Flask Backend → News API → AI Summarizer → Transl
 
 ## 📂 Project Structure
 
-ai-news-summarizer/
-├── backend/
-│   ├── app.py
-│   ├── config.py
-│   ├── summarizer.py
-│   ├── translator.py
-│   ├── tts.py
-│   ├── utils.py
-│   └── requirements.txt
-├── frontend/
-│   ├── static/
-│   │   ├── css/style.css
-│   │   └── js/script.js
-│   └── templates/index.html
-├── tests/
-│   ├── test_api.py
-│   ├── test_summarizer.py
-│   └── test_tts.py
-├── README.md
-└── LICENSE
+<img width="406" height="432" alt="Screenshot 2026-02-09 at 10 25 22 PM" src="https://github.com/user-attachments/assets/1c13cf84-5672-46b4-98e1-c63adc1ffeea" />
 
 ---
 
@@ -173,10 +154,40 @@ pytest tests/
 
 ---
 
-## 📜 License
+## 📸 Output
 
-MIT License
+- User Interface
+
+
+
+
+
+<img width="1440" height="779" alt="Screenshot 2026-02-09 at 9 47 30 PM" src="https://github.com/user-attachments/assets/ff4aac6d-99fe-41e5-b722-442705caf044" />
+
+
+
+
+
+- News Source Selection
+
+
+
+
+<img width="1440" height="779" alt="Screenshot 2026-02-09 at 9 52 45 PM" src="https://github.com/user-attachments/assets/304699e1-9920-40b2-bc71-66834f84d5c1" />
+
+
+
+
+- Language Selection
+
+
+
+
+<img width="1440" height="779" alt="Screenshot 2026-02-09 at 9 56 45 PM" src="https://github.com/user-attachments/assets/85e336e3-52e0-4289-8c5a-a411c80b51eb" />
+
+
 
 ---
+
 
 ⭐ Star the repository if you like this project!
