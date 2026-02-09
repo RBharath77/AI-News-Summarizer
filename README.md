@@ -144,16 +144,6 @@ pytest tests/
 
 ---
 
-## 🚀 Future Enhancements
-
-- Mobile app
-- Cloud deployment
-- User authentication
-- Advanced AI models
-- Emotion-based voice narration
-
----
-
 ## 📸 Output
 
 - User Interface
