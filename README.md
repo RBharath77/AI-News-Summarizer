@@ -1,4 +1,4 @@
-# 📰 AI-Powered News Summarizer & Voice Reader
+# 📰 AI-Powered News Summarizer
 
 An advanced **AI-driven full-stack web application** that fetches **live online news**, performs **intelligent text summarization using NLP**, supports **multi-language translation**, and provides a **voice-based news reader** with playback controls.
 
